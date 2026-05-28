@@ -59,14 +59,15 @@ Le menu burger et la sidebar messagerie sont les seules interactions JS — tout
 
 ## Captures d'écran
 
-*(Placeholders — à remplacer par captures réelles)*
+
 
 | Desktop | Messagerie | Menu actif | Menu burger (mobile)
 | --- | --- | --- | --- |
-| <img width="1900" height="916" alt="loomi-desktop" src="https://github.com/user-attachments/assets/0e425368-9682-4a3d-b34b-a50c789e6d92" />
-| <img width="1900" height="918" alt="loomi-sidebar" src="https://github.com/user-attachments/assets/7fee594d-4c52-4cfa-ac1c-c6268dbfa109" />
-| <img width="1899" height="915" alt="loomi-menu" src="https://github.com/user-attachments/assets/11c0aa1e-b2ba-43e4-9663-3572e54e4af3" />
-| <img width="261" height="463" alt="loomi-burger" src="https://github.com/user-attachments/assets/67124992-e9cf-4a88-9433-13126717ce9e" />
+
+<img width="1900" height="916" alt="loomi-desktop" src="https://github.com/user-attachments/assets/0e425368-9682-4a3d-b34b-a50c789e6d92" />
+<img width="1900" height="918" alt="loomi-sidebar" src="https://github.com/user-attachments/assets/7fee594d-4c52-4cfa-ac1c-c6268dbfa109" />
+<img width="1899" height="915" alt="loomi-menu" src="https://github.com/user-attachments/assets/11c0aa1e-b2ba-43e4-9663-3572e54e4af3" />
+<img width="261" height="463" alt="loomi-burger" src="https://github.com/user-attachments/assets/67124992-e9cf-4a88-9433-13126717ce9e" />
 
 ---
 
@@ -141,4 +142,4 @@ Si le concept était poussé en produit :
 
 **Maxime Garin** — [github.com/maximegarin](https://github.com/maximegarin)
 
-Premier projet réalisé en autonomie pendant ma formation Titre Pro Développeur Web à l'AFEC Bayonne (2024–2026), en exploitant mon double profil designer + développeur.
+Premier projet réalisé en autonomie pendant ma formation Titre Pro Développeur Web à l'AFEC Bayonne (2024–2026).
