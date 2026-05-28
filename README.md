@@ -12,7 +12,7 @@ Concept et maquette interactive développés en autonomie : design produit + int
 [![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?logo=javascript&logoColor=black)](#)
 [![No framework](https://img.shields.io/badge/no_framework-clean-success)](#)
 
-**Démo live** : maximegarin.github.io/loomi/
+**Démo live** : https://maximegarin.github.io/loomi/
 
 ---
 
