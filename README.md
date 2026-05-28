@@ -131,8 +131,8 @@ Si le concept était poussé en produit :
 
 | Projet | Stade | Apport |
 | --- | --- | --- |
-| **LOOMI** | **Tout début de formation** | **Premier projet : intégration HTML/CSS/JS statique** |
-| [ALGOPEDIA](https://github.com/maximegarin/algopedia) | CCP1 | Données dynamiques via JSON + modules ES6 |
+| **loomi** | CCP1 | **Tout début de formation** | **Premier projet : intégration HTML/CSS/JS statique** |
+| [algopedia](https://github.com/maximegarin/algopedia) | CCP1 | Données dynamiques via JSON + modules ES6 |
 | [password-manager-api](https://github.com/maximegarin/password-manager-api) | Plus avancé | Vrai backend Node/Express, API REST, 2FA, sécurité |
 | [pbd-annuaire](https://github.com/maximegarin/pbd-annuaire) | En autonomie / production | WordPress/PHP, perf, RGPD, livré pour un vrai client |
 
