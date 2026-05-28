@@ -4,12 +4,15 @@ Prototype web d'un **réseau social de quartier** — facilite les rencontres en
 
 Concept et maquette interactive développés en autonomie : design produit + intégration front-end de A à Z.
 
+> **Projet de formation — tout premier projet** (Titre Pro Développeur Web, AFEC Bayonne).
+> Mes débuts en intégration HTML/CSS/JS. Conservé volontairement comme point de départ de ma progression, avant les projets à données dynamiques puis full-stack.
+
 [![HTML5](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?logo=javascript&logoColor=black)](#)
 [![No framework](https://img.shields.io/badge/no_framework-clean-success)](#)
 
-**Démo live** : https://maximegarin.github.io/LOOMI/
+**Démo live** : *(URL à insérer après déploiement GitHub Pages / Netlify)*
 
 ---
 
@@ -58,9 +61,12 @@ Le menu burger et la sidebar messagerie sont les seules interactions JS — tout
 
 *(Placeholders — à remplacer par captures réelles)*
 
-| Desktop | Mobile (menu ouvert) | Messagerie |
-| --- | --- | --- |
-| ![Desktop](docs/screenshots/desktop.png) | ![Mobile](docs/screenshots/mobile.png) | ![Sidebar](docs/screenshots/messagerie.png) |
+| Desktop | Messagerie | Menu actif | Menu burger (mobile)
+| --- | --- | --- | --- |
+| <img width="1900" height="916" alt="loomi-desktop" src="https://github.com/user-attachments/assets/0e425368-9682-4a3d-b34b-a50c789e6d92" />
+| <img width="1900" height="918" alt="loomi-sidebar" src="https://github.com/user-attachments/assets/7fee594d-4c52-4cfa-ac1c-c6268dbfa109" />
+| <img width="1899" height="915" alt="loomi-menu" src="https://github.com/user-attachments/assets/11c0aa1e-b2ba-43e4-9663-3572e54e4af3" />
+| <img width="261" height="463" alt="loomi-burger" src="https://github.com/user-attachments/assets/67124992-e9cf-4a88-9433-13126717ce9e" />
 
 ---
 
@@ -120,7 +126,14 @@ Si le concept était poussé en produit :
 
 ---
 
+## Place dans mon parcours
 
+| Projet | Stade | Apport |
+| --- | --- | --- |
+| **LOOMI** | **Tout début de formation** | **Premier projet : intégration HTML/CSS/JS statique** |
+| [ALGOPEDIA](https://github.com/maximegarin/algopedia) | CCP1 | Données dynamiques via JSON + modules ES6 |
+| [password-manager-api](https://github.com/maximegarin/password-manager-api) | Plus avancé | Vrai backend Node/Express, API REST, 2FA, sécurité |
+| [pbd-annuaire](https://github.com/maximegarin/pbd-annuaire) | En autonomie / production | WordPress/PHP, perf, RGPD, livré pour un vrai client |
 
 ---
 
@@ -128,4 +141,4 @@ Si le concept était poussé en produit :
 
 **Maxime Garin** — [github.com/maximegarin](https://github.com/maximegarin)
 
-Projet réalisé en autonomie au début de ma formation Titre Pro Développeur Web à l'AFEC Bayonne (2024–2026), en exploitant mon double profil designer + développeur.
+Premier projet réalisé en autonomie pendant ma formation Titre Pro Développeur Web à l'AFEC Bayonne (2024–2026), en exploitant mon double profil designer + développeur.
